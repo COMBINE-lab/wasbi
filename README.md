@@ -58,7 +58,7 @@ First, we create a simple vector containing these directories (the `>` below is 
 Now, we simply run the `prepare_fish_for_sleuth` function:
 
 ```r
-> prepare_fish_for_sleuth(sfidrs)
+> prepare_fish_for_sleuth(sfdirs)
 ```
 
 The function will write some status messages to the console and, when it's done, each directory will now contain 
